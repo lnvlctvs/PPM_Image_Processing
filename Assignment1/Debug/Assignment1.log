@@ -1,0 +1,21 @@
+﻿  ppm.cpp
+c:\users\user\source\repos\assignment2\assignment1\ppm.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\assignment2\assignment1\ppm.cpp(15): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+c:\users\user\source\repos\assignment2\assignment1\ppm.cpp(25): warning C4101: 'err': unreferenced local variable
+c:\users\user\source\repos\assignment2\assignment1\ppm.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  Image.cpp
+c:\users\user\source\repos\assignment2\assignment1\image.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\assignment2\assignment1\image.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\assignment2\assignment1\image.cpp(81): warning C4101: 'error': unreferenced local variable
+  filter_run.cpp
+c:\users\user\source\repos\assignment2\assignment1\filter_run.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\assignment2\assignment1\filter_run.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FilterLinear.cpp
+c:\users\user\source\repos\assignment2\assignment1\filterlinear.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\assignment2\assignment1\filterlinear.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  FilterGamma.cpp
+c:\users\user\source\repos\assignment2\assignment1\filtergamma.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\assignment2\assignment1\filtergamma.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  Filter.cpp
+  Generating Code...
+  Assignment1.vcxproj -> C:\Users\user\source\repos\Assignment2\Debug\Assignment2.exe

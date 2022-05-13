@@ -1,0 +1,23 @@
+﻿  Filter.cpp
+  FilterGamma.cpp
+FilterGamma.cpp(10): warning C4018: '<': signed/unsigned mismatch
+FilterGamma.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  FilterLinear.cpp
+FilterLinear.cpp(9): warning C4018: '<': signed/unsigned mismatch
+FilterLinear.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  filter_run.cpp
+filter_run.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+filter_run.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Image.cpp
+Image.cpp(56): warning C4018: '<': signed/unsigned mismatch
+Image.cpp(71): warning C4018: '<': signed/unsigned mismatch
+Image.cpp(81): warning C4101: 'error': unreferenced local variable
+  ppm.cpp
+ppm.cpp(14): warning C4018: '<': signed/unsigned mismatch
+ppm.cpp(15): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+ppm.cpp(25): warning C4101: 'err': unreferenced local variable
+ppm.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 359 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignment1.vcxproj -> C:\Users\user\source\repos\Assignment2\Release\Assignment2.exe

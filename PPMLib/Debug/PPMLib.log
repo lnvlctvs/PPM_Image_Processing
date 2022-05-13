@@ -1,0 +1,6 @@
+﻿  ppm.cpp
+c:\users\user\source\repos\assignment2\ppmlib\ppm.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\assignment2\ppmlib\ppm.cpp(15): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+c:\users\user\source\repos\assignment2\ppmlib\ppm.cpp(25): warning C4101: 'err': unreferenced local variable
+c:\users\user\source\repos\assignment2\ppmlib\ppm.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  PPMLib.vcxproj -> C:\Users\user\source\repos\Assignment2\Debug\PPMLib.lib
